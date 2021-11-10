@@ -1,0 +1,11 @@
+.pokemonCard {
+  background-color: #242830;
+  border-radius: 5px;
+  margin-top: 1rem;
+  padding: 1.5rem;
+}
+
+.pokemonDesc {
+  margin: auto;
+  align-items: center;
+}
